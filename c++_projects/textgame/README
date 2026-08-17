@@ -1,0 +1,4 @@
+I started this project as a way for me to try out C++ OOP on my own, scope of game I feel had gotten too big, so I'm gonna leave it as it is, copy it's frame work to a new project to encapsulate it better to make debugging/reading it easier.
+
+This game is ideal is simple a text that has fighting random enemies until you die, your actions are very limited you can attack and that it all you can do and game loop is not there, and that as far I got, before I decided to make it better version. so have fun!
+
