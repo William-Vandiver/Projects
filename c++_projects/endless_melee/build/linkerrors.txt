@@ -1,0 +1,11 @@
+================================================================================
+Linker Errors
+Generated: 2026-08-19T00:25:00.905Z
+Total Errors: 2
+================================================================================
+
+[LNK2019] (MSVC)
+unresolved external symbol "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl into(void)" (?into@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) referenced in function main [C:\Workspace\Projects\c++_projects\endless_melee\build\endless_melee.vcxproj]
+
+[LNK1120] (MSVC)
+1 unresolved externals [C:\Workspace\Projects\c++_projects\endless_melee\build\endless_melee.vcxproj]
